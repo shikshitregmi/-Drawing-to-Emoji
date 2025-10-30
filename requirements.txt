@@ -1,0 +1,8 @@
+streamlit
+pillow
+numpy
+scikit-learn
+opencv-python
+matplotlib
+plotly
+streamlit-drawable-canvas
